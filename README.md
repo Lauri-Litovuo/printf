@@ -41,7 +41,7 @@ int main()
 }
 ```
 
-This example demonstrates how to use the ft_printf function to print out a funnier formatted string with variables. The `%s` conversion specifier is used to print out the `name` variable, `%d` is used to print out the `age` variable, and `%f` is used to print out the `height` variable with two decimal places. The `\n` character is used to print out a newline at the end of each string. The last string is just a fun statement about the author's love for pizza.
+This example demonstrates how to use the ft_printf function to print out a formatted string with variables. The `%s` conversion specifier is used to print out the `name` variable. The `\n` character is used to print out a newline at the end of each string.
 
 ## License
 
